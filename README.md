@@ -37,7 +37,7 @@ An intelligent traffic control system designed using LabVIEW, Raspberry Pi 4B, a
 
 * **LabVIEW** – Manages sensor logic, control rules, and communication
 * **DAQ Card** – Interfaces with physical sensors and control systems
-* **Raspberry Pi 4B** – Handles sensor interfacing and control coordination
+* **Raspberry Pi 4B** – Everything implemented using rapberrypi is implemented using Laptop.
 * **Laptop with GPU** – Performs image processing tasks (e.g., pedestrian detection) for better performance
 * **TCP/IP Protocol** – Communication between Raspberry Pi and laptop GPU
 * **Camera Module** – For detecting both pedestrians and vehicles
