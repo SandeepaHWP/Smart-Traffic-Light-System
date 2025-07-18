@@ -51,13 +51,11 @@ SmartTrafficLightSystem/
 │   └── smart_traffic_light_system_main.vi
 │   └── TrafficLightStates.vi
 ├── VideoProcessing/
-│   ├── main.py
-│   ├── pedestrian_detection.py (if applicable)
-│   └── vehicle_detection.py (if applicable)
+│   ├── status_provider.py
+│   ├── phonefeed.py (if applicable)
+│   └── vehicle.py (if applicable)
 ├── FinalProduct/
 │   └── DemoVideo
-├── Docs/
-│   └── Schematics, Diagrams, and Report.pdf
 ├── README.md
 ```
 
