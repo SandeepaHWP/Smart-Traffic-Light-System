@@ -83,7 +83,7 @@ MIT License
 
 
 
-> Developed by Prbhashana, Chamath, and Sampavi
+> Developed by Prbhashana, Chamath, and Sampavi ( Team 23 )
 
 ---
 
