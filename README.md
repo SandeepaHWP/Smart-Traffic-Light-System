@@ -55,7 +55,7 @@ SmartTrafficLightSystem/
 │   ├── pedestrian_detection.py (if applicable)
 │   └── vehicle_detection.py (if applicable)
 ├── FinalProduct/
-│   └── 
+│   └── DemoVideo
 ├── Docs/
 │   └── Schematics, Diagrams, and Report.pdf
 ├── README.md
