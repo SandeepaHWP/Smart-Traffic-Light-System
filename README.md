@@ -50,7 +50,7 @@ SmartTrafficLightSystem/
 ├── LabVIEW/
 │   └── smart_traffic_light_system_main.vi
 │   └── TrafficLightStates.vi
-├── RaspberryPi/
+├── VideoProcessing/
 │   ├── main.py
 │   ├── pedestrian_detection.py (if applicable)
 │   └── vehicle_detection.py (if applicable)
