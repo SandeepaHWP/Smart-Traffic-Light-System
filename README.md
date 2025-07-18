@@ -63,10 +63,6 @@ SmartTrafficLightSystem/
 ├── README.md
 ```
 
-## 📸 Preview
-
-*Add a GIF or screenshot of your system in action here.*
-
 ## 📋 How to Use
 
 1. Connect the rain sensor (with servo), camera, and other inputs to the DAQ and Raspberry Pi.
