@@ -48,7 +48,8 @@ An intelligent traffic control system designed using LabVIEW, Raspberry Pi 4B, a
 ```
 SmartTrafficLightSystem/
 ├── LabVIEW/
-│   └── VI_Files.vi
+│   └── smart_traffic_light_system_main.vi
+│   └── TrafficLightStates.vi
 ├── RaspberryPi/
 │   ├── main.py
 │   ├── pedestrian_detection.py (if applicable)
