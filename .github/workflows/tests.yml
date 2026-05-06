@@ -1,0 +1,37 @@
+name: Tests
+
+on:
+  workflow_run:
+    workflows: ["Gate"]
+    types: [completed]
+
+jobs:
+  test-one:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dummy test one
+        run: |
+          echo "Running test one..."
+          sleep 2
+          echo "Test one passed"
+
+  test-two:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dummy test two
+        run: |
+          echo "Running test two..."
+          sleep 2
+          echo "Test two passed"
+
+  test-three:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dummy test three
+        run: |
+          echo "Running test three..."
+          sleep 2
+          echo "Test three passed"
